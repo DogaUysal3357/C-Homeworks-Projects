@@ -1,0 +1,2 @@
+Coktan aza dogru polinomun katsayilarini giriniz :
+Sonuc polinomunun P(0) degeri :Sonuc polinomu : 2.000x^2 + 3.000x + 5.000.

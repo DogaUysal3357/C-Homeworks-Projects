@@ -1,0 +1,13 @@
+No - The Rebounching -- The Total Vertical Distance
+
+1     33.000       33.000
+2     23.100       79.200
+3     16.170       111.540
+4     11.319       134.178
+5     7.923       150.025
+6     5.546       161.117
+7     3.882       168.882
+8     2.718       174.317
+9     1.902       178.122
+10     1.332       180.786
+ The bouncing isstopped and the task completed...

@@ -1,0 +1,1 @@
+1. Polinomun katsayilarini derece sirasina gore giriniz :2. Polinomun katsayilarini derece sirasina gore giriniz :Carpma isleminin sonucu : 4.000x^4 + 11.000x^3 + 20.000x^2 + 13.000x + 6.000 
